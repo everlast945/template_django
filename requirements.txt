@@ -1,0 +1,41 @@
+#core
+asgiref
+Django
+pytz
+sqlparse
+psycopg2-binary
+requests
+#redis
+#(для валидации токенов)python-jose
+
+#server
+gunicorn
+#celery
+#flower
+
+#djangorest
+djangorestframework
+django-filter
+
+#sugar
+django-environ
+#(если есть деревья) django-treebeard
+#openpyxl
+#pandas
+#numpy
+#django-cors-headers
+
+#dev API-docs
+coreapi
+markdown
+#sentry-sdk
+
+#storage
+#pillow
+#boto3
+#django-storages
+
+#tests
+text-unidecode
+factory-boy
+Faker
